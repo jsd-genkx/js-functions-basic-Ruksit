@@ -23,3 +23,5 @@ console.log(checkEvenOrOdd(4)); // "Even"
 console.log(checkEvenOrOdd(9)); // "Odd"
 console.log(checkEvenOrOdd(0)); // "Even"
 console.log(checkEvenOrOdd(-3)); // "Odd"
+
+//-m "task02 solution"
